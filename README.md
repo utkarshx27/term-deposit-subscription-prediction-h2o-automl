@@ -10,9 +10,6 @@
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Project Description
 
